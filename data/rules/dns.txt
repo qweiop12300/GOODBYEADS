@@ -52714,7 +52714,6 @@
 ||irzi.cn^
 ||is-log.furunavi.jp^
 ||is.lg.com^
-||is.snssdk.com^
 ||isabellaentire.com^
 ||isabellalive.cfd^
 ||isac.thermofisher.com^
